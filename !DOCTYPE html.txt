@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <title>Головна</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    h1 {
+      color: darkblue;
+    }
+  </style>
+</head>
+<body style="margin: 20px;">
+  <header>
+    <h1>Мій сайт</h1>
+  </header>
+
+  <main>
+    <section>
+      <p>Це головна сторінка мого сайту. Вона містить контент та навігацію.</p>
+    </section>
+
+    <nav>
+      <a href="about.html">Про мене</a>
+    </nav>
+  </main>
+
+  <footer>
+    <p>© 2025 мiй сайт </p>
+  </footer>
+</body>
+</html>

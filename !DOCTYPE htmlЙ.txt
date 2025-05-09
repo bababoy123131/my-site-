@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <title>Я БЕЗ ПОНЯТИЯ title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Про мене</h1>
+  </header>
+
+  <main>
+    <section>
+      <p>Тут розміщується інформація про автора сайту. Можна додати фото, факти та інше.</p>
+    </section>
+
+    <nav>
+      <a href="index.html">Повернутися на головну</a>
+    </nav>
+  </main>
+
+  <footer>
+    <p>Контакти: yanakhramets@gmail.com</p>
+  </footer>
+</body>
+</html>
